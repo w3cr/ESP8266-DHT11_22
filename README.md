@@ -7,7 +7,6 @@
 
 ###1.固件刷入
 *   一. 先将ESP8266与电脑连接，并查看设备管理器，记录COM端口
-
         ![3.png](https://i.loli.net/2017/09/13/59b81adfba00b.png)
         
 *   二. 使用ESP8266Flasher.exe上传固件
