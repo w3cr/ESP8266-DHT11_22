@@ -1,12 +1,17 @@
 # ESP8266接入DHT11模块读取温湿度
 > Power By : oneHacking     欢迎转载请注明出处
+
 > 出自本群作品：[跑在树莓派上的智能家居](http://iot0.tk:8081)
+
 > 技术支持群组：[Q群 300717117](https://jq.qq.com/?_wv=1027&k=51EYE42)
 
 ###1.固件刷入
 *   一. 先将ESP8266与电脑连接，并查看设备管理器，记录COM端口
+
         ![3.png](https://i.loli.net/2017/09/13/59b81adfba00b.png)
+        
 *   二. 使用ESP8266Flasher.exe上传固件
+
     *   设置如下参数
        ![flash1.jpg](https://i.loli.net/2017/09/13/59b817c99acb3.jpg)
     
