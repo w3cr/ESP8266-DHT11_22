@@ -13,12 +13,15 @@
 *   二. 使用ESP8266Flasher.exe上传固件
 
     *   设置如下参数
+
        ![flash1.jpg](https://i.loli.net/2017/09/13/59b817c99acb3.jpg)
     
     *   点击小齿轮选择要刷入的固件(文件名后缀为波特率)，并设置地址为0x00000
+
        ![flash2.jpg](https://i.loli.net/2017/09/13/59b817c9a3846.jpg)
     
     *   选择记录下的COM端口，并点击flash按钮，等待固件上传完成
+
        ![flash3.jpg](https://ooo.0o0.ooo/2017/09/13/59b83df32af33.jpg)
 
 ###2.电路连接
